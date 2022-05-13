@@ -1,0 +1,12 @@
+﻿Marka 
+   1 BMW   
+   2 Mercedes
+
+Model
+    1 X5  		1    
+    2 X6  		1
+    3 S Class 	2
+    
+Car
+  #    ModelId		Year		Price          Ban növü          Rəng  Yanacaq növü
+  1 	 1				 2017     50000         Offroader / SUV   Ağ     Benzin

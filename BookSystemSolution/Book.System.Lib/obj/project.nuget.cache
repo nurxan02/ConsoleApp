@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "f59BDj7y7noX3DDaE98Ad9N7LqhyhumqI5XJo0xxQpfinUCQrNn0GfU5V1k2zuQSyJfzSTlP5tKebqJsE0w5cQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Qasimov\\Desktop\\BookSystemSolution\\Book.System.Lib\\Book.System.Lib.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\Users\\Qasimov\\Desktop\\BookSystemSolution\\BookSystem.Lib\\BookSystem.Lib.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\Users\\Qasimov\\Desktop\\BookSystemSolution\\BookSystem.Lib\\BookSystem.Lib.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

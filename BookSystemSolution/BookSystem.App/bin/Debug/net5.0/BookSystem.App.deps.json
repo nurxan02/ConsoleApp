@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BookSystem.App/1.0.0": {
+        "dependencies": {
+          "BookSystem.Lib": "1.0.0"
+        },
+        "runtime": {
+          "BookSystem.App.dll": {}
+        }
+      },
+      "BookSystem.Lib/1.0.0": {
+        "runtime": {
+          "BookSystem.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookSystem.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookSystem.Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
