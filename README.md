@@ -1,4 +1,4 @@
-# ConsoleAppBookManagement
+# Console App Book Management System Basic
 Books Management System to
 Kamran Abdullayev Lessons
 on Code Academy. 
